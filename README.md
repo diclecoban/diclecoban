@@ -72,7 +72,7 @@
 ### 🌐 Social & Contact
 
 <p>
-  <a href="[https://linkedin.com/in/diclecoban](https://www.linkedin.com/in/dicle-çoban-9811b3259/)" target="_blank">
+  <a href="https://www.linkedin.com/in/dicle-çoban-9811b3259/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:diclecoban02@gmail.com" target="_blank">
